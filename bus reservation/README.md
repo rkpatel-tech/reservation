@@ -1,4 +1,10 @@
-# ✨ API, CRM, Client and Mobile application of **_dhan-gaadi_**, an online bus booking system
+# 🚌 Bus Reservation System
+
+## 📌 Introduction
+
+The **Bus Reservation System** is a simple and efficient application designed to automate the process of booking and managing bus tickets. This system allows users to check reserve seats, cancel bookings, and receive confirmation—all through a user-friendly interface. Administrators can manage buses, schedules, and passenger records with ease.
+
+This project helps reduce the manual workload, improve customer experience, and streamline the entire reservation process.
 
 <p>
 <img src="https://img.shields.io/badge/CRM-ReactJS-blue?logo=react">
